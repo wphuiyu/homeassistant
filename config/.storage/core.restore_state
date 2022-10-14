@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {
+        "entity_id": "person.liu_hui_yu",
+        "state": "unknown",
+        "attributes": {
+          "editable": true,
+          "id": "liu_hui_yu",
+          "user_id": "f0ae4e5489bd4f9e9e01509832ac85fe",
+          "entity_picture": "/api/image/serve/e1a5e072086a4f57c6ce3751f7244991/512x512",
+          "friendly_name": "刘慧宇"
+        },
+        "last_changed": "2022-10-14T08:20:03.936578+00:00",
+        "last_updated": "2022-10-14T08:20:35.745934+00:00",
+        "context": {
+          "id": "01GFAS9CS1C0G1Q04AVBM6J6B9",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2022-10-14T08:30:06.952288+00:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "name": "刘慧宇",
+        "user_id": "f0ae4e5489bd4f9e9e01509832ac85fe",
+        "device_trackers": [],
+        "id": "liu_hui_yu",
+        "picture": "/api/image/serve/e1a5e072086a4f57c6ce3751f7244991/512x512"
+      }
+    ]
+  }
+}

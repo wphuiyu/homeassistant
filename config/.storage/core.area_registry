@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "name": "客厅",
+        "id": "ke_ting",
+        "picture": null
+      },
+      {
+        "name": "厨房",
+        "id": "chu_fang",
+        "picture": "/api/image/serve/b7673a01f56110aa7afce0010dd3265f/512x512"
+      },
+      {
+        "name": "卧室",
+        "id": "wo_shi",
+        "picture": null
+      }
+    ]
+  }
+}
